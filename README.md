@@ -1,13 +1,13 @@
 # Hi there, I'm Vipul Kannaujiya! 👋
 
-A passionate self-taught **Web Developer** from India, focused on building clean, user-friendly, and responsive web applications. I love solving problems and constantly learning new technologies.
+A passionate self-taught **Web Developer** from India, focused on building clean, user-friendly, and responsive web applications. I love solving problems, writing clean code, and constantly learning new technologies.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap
-- **Languages:** Python, Java (Currently Learning 📚)
+- **Languages:** C, Python, JavaScript (ES6+), Java (Currently Learning 📚)
+- **Frontend Development:** HTML5, CSS3, Bootstrap
 - **Tools & Platforms:** Git, GitHub, VS Code
 
 ---
@@ -23,12 +23,13 @@ A passionate self-taught **Web Developer** from India, focused on building clean
 
 ### 🎯 Current Focus & Goals
 
-- 🚀 Improving my JavaScript and problem-solving skills.
-- 💻 Building 2-3 solid frontend projects to showcase.
+- 🚀 Improving my JavaScript and data structures/problem-solving skills.
+- 💻 Building 2-3 solid projects to showcase my Python and Web Dev skills.
 - 🤝 Open to collaborating on open-source projects.
 
 ---
 
 ### 🌐 Connect with me
-- **LinkedIn:** www.linkedin.com/in/vipul-kannaujiya-8aa198291
-- **Email:** vipulkannaujiya958@gmail.com
+
+- **LinkedIn:** [linkedin.com/in/vipul-kannaujiya-8aa198291](https://www.linkedin.com/in/vipul-kannaujiya-8aa198291)
+- **Email:** [vipulkannaujiya958@gmail.com](mailto:vipulkannaujiya958@gmail.com)
