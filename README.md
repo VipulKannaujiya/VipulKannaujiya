@@ -25,6 +25,11 @@ A passionate self-taught **Web Developer** from India, focused on building clean
 - **Yuva AI For All** - TCS(Tata Consultancy Services)
 <img width="1000" height="708" alt="TCS iON Certificate" src="https://github.com/user-attachments/assets/2bd4a98c-362b-4e5b-a7f3-247da914d0b5" />
 
+---
+
+Advanced Diploma in Computer Applications(ADCA) - [STP Computer Education]
+<img width="2481" height="3508" alt="ADCA Certificate_page-0001" src="https://github.com/user-attachments/assets/a6d8920b-9758-4d15-a5f5-63cc421428d3" />
+
 
 ---
 
