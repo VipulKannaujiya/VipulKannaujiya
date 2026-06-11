@@ -37,7 +37,14 @@ A passionate self-taught **Web Developer** from India, focused on building clean
 ### 🏆 Certifications
 - **Summer Training with Java** - Digicoders Pvt. Ltd.
 
-  <img width="2015" height="2759" alt="IMG_20260225_215653" src="https://github.com/user-attachments/assets/a38796a4-f6da-41fe-bde8-bc80595dcf99" />
+<img width="2015" height="2759" alt="IMG_20260225_215653" src="https://github.com/user-attachments/assets/a38796a4-f6da-41fe-bde8-bc80595dcf99" />
+
+---
+
+### 🏆 Certifications
+- **Prompt Engineering** - Mindluster
+
+<img width="1600" height="1131" alt="Prompt Engineering Certificate" src="https://github.com/user-attachments/assets/d085ab13-d64c-42b8-a294-d0cf61c40659" />
 
 
 ---
