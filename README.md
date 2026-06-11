@@ -21,6 +21,13 @@ A passionate self-taught **Web Developer** from India, focused on building clean
 
 ---
 
+### 🏆 Certifications
+- **Yuva AI For All** - TCS(Tata Consultancy Services)
+  ![Yuva AI Certificate](<img width="1000" height="708" alt="TCS iON Certificate" src="https://github.com/user-attachments/assets/2bd4a98c-362b-4e5b-a7f3-247da914d0b5" />)
+
+
+---
+
 ### 🎯 Current Focus & Goals
 
 - 🚀 Improving my JavaScript and data structures/problem-solving skills.
