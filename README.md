@@ -26,10 +26,18 @@ A passionate self-taught **Web Developer** from India, focused on building clean
 <img width="1000" height="708" alt="TCS iON Certificate" src="https://github.com/user-attachments/assets/2bd4a98c-362b-4e5b-a7f3-247da914d0b5" />
 
 ---
+
 ### 🏆 Certifications
-- **Advanced Diploma in Computer Applications(ADCA)** - [STP Computer Education]
+- **Advanced Diploma in Computer Applications(ADCA)** - STP Computer Education
   
 <img width="2481" height="3508" alt="ADCA Certificate_page-0001" src="https://github.com/user-attachments/assets/a6d8920b-9758-4d15-a5f5-63cc421428d3" />
+
+---
+
+### 🏆 Certifications
+- **Summer Training with Java** - Digicoders Pvt. Ltd.
+
+  <img width="2015" height="2759" alt="IMG_20260225_215653" src="https://github.com/user-attachments/assets/a38796a4-f6da-41fe-bde8-bc80595dcf99" />
 
 
 ---
