@@ -30,5 +30,5 @@ A passionate self-taught **Web Developer** from India, focused on building clean
 ---
 
 ### 🌐 Connect with me
-- **LinkedIn:** [Aapka LinkedIn Username Yahan Dalein]
-- **Email:** [Aapka Email Address Yahan Dalein]
+- **LinkedIn:** www.linkedin.com/in/vipul-kannaujiya-8aa198291
+- **Email:** vipulkannaujiya958@gmail.com
