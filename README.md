@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Vipul Kannaujiya! 👋
 
-<!--
-**VipulKannaujiya/VipulKannaujiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate self-taught **Web Developer** from India, focused on building clean, user-friendly, and responsive web applications. I love solving problems and constantly learning new technologies.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), Bootstrap
+- **Languages:** Python, Java (Currently Learning 📚)
+- **Tools & Platforms:** Git, GitHub, VS Code
+
+---
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=VipulKannaujiya&show_icons=true&theme=dark&hide_border=true" alt="Vipul's GitHub Stats" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipulKannaujiya&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160px" />
+</p>
+
+---
+
+### 🎯 Current Focus & Goals
+
+- 🚀 Improving my JavaScript and problem-solving skills.
+- 💻 Building 2-3 solid frontend projects to showcase.
+- 🤝 Open to collaborating on open-source projects.
+
+---
+
+### 🌐 Connect with me
+- **LinkedIn:** [Aapka LinkedIn Username Yahan Dalein]
+- **Email:** [Aapka Email Address Yahan Dalein]
