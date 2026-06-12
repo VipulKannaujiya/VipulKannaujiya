@@ -27,7 +27,9 @@ A passionate self-taught **Web Developer** from India, focused on building clean
 
 -
 
+## 👾 My Contribution Snake
 
+![Pacman Snake](https://raw.githubusercontent.com/VipulKannaujiya/VipulKannaujiya/output/github-contribution-grid-snake.svg)
 
 ---
 
