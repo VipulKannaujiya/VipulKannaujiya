@@ -9,14 +9,25 @@ A passionate self-taught **Web Developer** from India, focused on building clean
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/vipul-kannaujiya-8aa198291)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@vipulkannaujiyaVlogs)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vipulvlog12)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipulkannaujiya958@gmail.com)
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Tools
 
-- **Languages:** C, Python, JavaScript, Java (Currently Learning 📚)
-- **Frontend Development:** HTML5, CSS3, Bootstrap
-- **Tools & Platforms:** Git, GitHub, VS Code
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://en.wikipedia.org/wiki/HTML5)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://en.wikipedia.org/wiki/CSS)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://en.wikipedia.org/wiki/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+
+-
+
+
 
 ---
 
@@ -64,8 +75,3 @@ A passionate self-taught **Web Developer** from India, focused on building clean
 - 🤝 Open to collaborating on open-source projects.
 
 ---
-
-### 🌐 Connect with me
-
-- **LinkedIn:** [linkedin.com/in/vipul-kannaujiya-8aa198291](https://www.linkedin.com/in/vipul-kannaujiya-8aa198291)
-- **Email:** [vipulkannaujiya958@gmail.com](mailto:vipulkannaujiya958@gmail.com)
