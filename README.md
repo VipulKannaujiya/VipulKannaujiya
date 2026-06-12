@@ -6,7 +6,7 @@ A passionate self-taught **Web Developer** from India, focused on building clean
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** C, Python, JavaScript (ES6+), Java (Currently Learning 📚)
+- **Languages:** C, Python, JavaScript, Java (Currently Learning 📚)
 - **Frontend Development:** HTML5, CSS3, Bootstrap
 - **Tools & Platforms:** Git, GitHub, VS Code
 
