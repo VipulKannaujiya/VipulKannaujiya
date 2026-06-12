@@ -25,7 +25,7 @@ A passionate self-taught **Web Developer** from India, focused on building clean
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
--
+---
 
 ## 👾 My Contribution Snake
 
