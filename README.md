@@ -43,6 +43,12 @@ A passionate self-taught **Web Developer** from India, focused on building clean
 ---
 
 ### 🏆 Certifications
+- **Java Programming For Beginners** - Simplilearn | SkillUP
+<img width="3508" height="2481" alt="Java Programming For Beginners Certificate_page-0001" src="https://github.com/user-attachments/assets/720fffec-6eaf-4a72-90ab-01aedd9ede0c" />
+
+---
+
+### 🏆 Certifications
 - **Yuva AI For All** - TCS(Tata Consultancy Services)
 <img width="1000" height="708" alt="TCS iON Certificate" src="https://github.com/user-attachments/assets/2bd4a98c-362b-4e5b-a7f3-247da914d0b5" />
 
