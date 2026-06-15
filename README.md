@@ -62,7 +62,7 @@ A passionate self-taught **Web Developer** from India, focused on building clean
 ---
 
 ### 🏆 Certifications
-- **Summer Training with Java** - Digicoders Pvt. Ltd.
+- **Summer Training with Java** - Digicoders Technology Pvt. Ltd.
 
 <img width="2015" height="2759" alt="IMG_20260225_215653" src="https://github.com/user-attachments/assets/a38796a4-f6da-41fe-bde8-bc80595dcf99" />
 
