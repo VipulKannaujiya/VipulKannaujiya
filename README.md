@@ -75,13 +75,6 @@ A passionate self-taught **Web Developer** from India, focused on building clean
 
 ---
 
-### 🏆 Certifications
-- **Prompt Engineering** - Mindluster
-
-<img width="1600" height="1131" alt="Prompt Engineering Certificate" src="https://github.com/user-attachments/assets/d085ab13-d64c-42b8-a294-d0cf61c40659" />
-
-
----
 
 ### 🎯 Current Focus & Goals
 
