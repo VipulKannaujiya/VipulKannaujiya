@@ -55,6 +55,13 @@ A passionate self-taught **Web Developer** from India, focused on building clean
 ---
 
 ### 🏆 Certifications
+- **Critical Thinking in AI Era** - Hp Life | Hp Foundation
+<img width="3508" height="2479" alt="Hp Certificate_page-0001" src="https://github.com/user-attachments/assets/de23df35-a1e8-48be-b265-3814ef17d05f" />
+
+
+---
+
+### 🏆 Certifications
 - **Advanced Diploma in Computer Applications(ADCA)** - STP Computer Education.
   
 <img width="2481" height="3508" alt="ADCA Certificate_page-0001" src="https://github.com/user-attachments/assets/a6d8920b-9758-4d15-a5f5-63cc421428d3" />
