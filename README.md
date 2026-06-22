@@ -1,4 +1,4 @@
-# Hi there, I'm Vipul Kannaujiya! 👋
+# Hi there, I'm Vipul Kannaujiya!👋
 
 A passionate self-taught **Web Developer** from India, focused on building clean, user-friendly, and responsive web applications. I love solving problems, writing clean code, and constantly learning new technologies.
 
