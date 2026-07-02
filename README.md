@@ -36,8 +36,8 @@ A passionate self-taught **Web Developer** from India, focused on building clean
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=VipulKannaujiya&show_icons=true&theme=dark&hide_border=true" alt="Vipul's GitHub Stats" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VipulKannaujiya&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=VipulKannaujiya&show_icons=true&theme=dark&hide_border=true" alt="Vipul's GitHub Stats" height="160px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VipulKannaujiya&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="160px" />
 </p>
 
 ---
